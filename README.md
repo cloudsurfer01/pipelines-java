@@ -1,4 +1,4 @@
-(https://mimranm29-gmail.visualstudio.com/pipelines-java/_apis/build/status/cloudsurfer01.pipelines-java?branchName=master)](https://mimranm29-gmail.visualstudio.com/pipelines-java/_build/latest?definitionId=4&branchName=master)
+[![Build Status](https://mimranm29-gmail.visualstudio.com/pipelines-java/_apis/build/status/cloudsurfer01.pipelines-java?branchName=master)](https://mimranm29-gmail.visualstudio.com/pipelines-java/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
